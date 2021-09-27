@@ -30,7 +30,7 @@ namespace ClassCar
                 new Car("Audi", "A8", 2018, 3.0, "Red"),
                 new Car("Chrysler", "M300", 2016, 4.0, "Dark green"),
                 new Car("BMW", "X7", 2019, 3.8, "White"),
-                new Car("Bugatti", "Chiron", 2017, 8.0, "Metallik blue")};
+                new Car("Bugatti", "Chiron", 2017, 8.0, "Metallic blue")};
             
             for (int i = 0; i < car.Length; i++)
                 car[i].Print();
